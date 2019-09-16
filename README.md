@@ -1,2 +1,2 @@
 # Software-Development-Project
-1rst repository
+Repository for the Software Development Project
